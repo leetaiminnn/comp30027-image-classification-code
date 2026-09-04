@@ -1,0 +1,6 @@
+task1_data/
+task2_data/
+outputs/cache/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
